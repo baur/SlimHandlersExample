@@ -1,0 +1,16 @@
+{
+    "name": "baur/handlers-exercise",
+    "description": "baur/handlers-exercise",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baur114",
+            "email": "baurdotnet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	            "slim/slim": "^3.0"
+    }
+}
